@@ -3,9 +3,6 @@
 ##  Task Objective
 Perform Exploratory Data Analysis (EDA) on the Titanic dataset to extract insights, uncover patterns, detect relationships, and identify key factors affecting passenger survival.
 
-## completed task
-https://colab.research.google.com/drive/1w5vC9NENTZtFBIxMArU-_0S64gAEISgM?usp=sharing
-
 ##  Dataset Information
 - **Dataset Name**: Titanic-Dataset.csv
 - **Source**: [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic)
